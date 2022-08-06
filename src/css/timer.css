@@ -1,6 +1,7 @@
 body {
     text-align: center;
     background-color: white;
+    padding: 0 15px;
 }
 
 button {
@@ -54,7 +55,7 @@ color: #4d4b4b;
     justify-content: center;
     align-items: center;
     padding: 6px 22px;
-    min-width: 200px;
+    min-width: 150px;
 
     border: 1px solid #569ff7;
     border-radius: 4px;
