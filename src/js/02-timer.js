@@ -55,8 +55,7 @@ function timerOn(){
  
         const { days, hours, minutes, seconds } = convertMs(deltaTime);
         updClockInterface({ days, hours, minutes, seconds });
-        console.log({ days, hours, minutes, seconds })
-
+        
     }, 1000)
 }
 
